@@ -106,10 +106,10 @@ padding: 30px;
 .background{
   
         background-image: url('../assets/handshake.jpg');
-        background-size: cover; /* Adjusts the image size to cover the element */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    height: 313px; /* Set a height for the element */
+        background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 313px; 
     width: 1140px;
 
 }
@@ -117,7 +117,11 @@ padding: 30px;
   text-align: center;
   color: white;
  }
- .content{
+ .end{
+    padding: 25px 50px 75px 100px;
+    display: flex;
+    gap: 20px;
     text-align: center;
- }
+}
+
 
