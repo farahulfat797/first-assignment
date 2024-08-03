@@ -23,3 +23,59 @@
     border-radius: 5px;
     border: none;
 }
+.section-title{
+    font-size: 32;
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+}
+.section-description{
+    font-size: 16px;
+    color: #0D1321;
+}
+.secondary-bg{
+    background-color: #E7ECFF;
+
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.secondary-bg {
+    background-color: #e2e2e2;
+    padding: 20px;
+}
+
+.section-titlee {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.section-descriptionn {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.banner-section {
+    background-color: #FFFFFF   
+}
+.headerr{
+    color: #0D1321;
+}
+.para{
+    color: #0D1321;
+}
