@@ -1,4 +1,4 @@
-.header{
+.hheader{
     background-image: url('../assets/Hero-bg.png') ;
 }
 .banner-title{
@@ -79,3 +79,45 @@ body {
 .para{
     color: #0D1321;
 }
+.inspira{
+    text-align: center;
+    background-color: white;
+}
+.video{
+    text-align: center;
+    padding: 20px 100px;
+}
+.target-container{
+    display: flex;
+    gap: 30px;
+}
+.target-description{
+padding: 30px;
+}
+.target-html{
+    background-color: #FDCCC5;
+}
+.target-css{
+    background-color: #EBF2FF;
+}
+.target-js{
+    background-color: #FFDF00;
+}
+.background{
+  
+        background-image: url('../assets/handshake.jpg');
+        background-size: cover; /* Adjusts the image size to cover the element */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 313px; /* Set a height for the element */
+    width: 1140px;
+
+}
+.last-section{
+  text-align: center;
+  color: white;
+ }
+ .content{
+    text-align: center;
+ }
+
